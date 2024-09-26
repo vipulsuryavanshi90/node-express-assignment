@@ -1,4 +1,7 @@
-const express = require('express');
+
+/************* Rquirements******************/
+
+<!-- const express = require('express');
 const bcrypt = require('bcryptjs');
 const joi = require('joi');
 const app = express();
@@ -59,4 +62,4 @@ app.post('/login', (req: Request, res: Response) => {
 
 app.listen(port, () => {
 console.log(`Example app listening at http://localhost:${port}`);
-});
+}); -->
